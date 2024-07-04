@@ -1,0 +1,58 @@
+using System;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
+
+namespace SumaVectores
+{
+    class Vector
+    {
+        public int x, y;
+        public Vector()
+        {
+            x = 0;
+            y = 0;
+        }
+
+        public void LeerDatos()
+        {
+            string point1, point2;
+            Console.WriteLine("Ingrese x:"); point1 = Console.ReadLine();
+            x = int.Parse(point1);
+            Console.WriteLine("Ingrese y:"); point2 = Console.ReadLine();
+            y = int.Parse(point2);
+        }
+
+        public void MostrarDatos(char nom)
+        {
+            Console.WriteLine("{0}({1},{2})", nom, x, y);
+        }
+
+        public Vector SumaVectores(Vector A, Vector B)
+        {
+            Vector C = new Vector();
+            C.x = A.x + B.x; C.y = A.y + B.y;
+            return C;
+        }
+
+        class MainClass
+        {
+            public static void Main(string[] args)
+            {
+                Vector Punto1 = new Vector();
+                Vector Punto2 = new Vector();
+                Vector PuntoRes = new Vector();
+                Vector Punto3 = new Vector();
+                Console.WriteLine("Ingrese las coordenadas de los puntos.");
+                Console.WriteLine("Coordenadas para A."); Punto1.LeerDatos(); Punto1.MostrarDatos('A');
+                Console.WriteLine("Coordenadas para B."); Punto2.LeerDatos(); Punto2.MostrarDatos('B');
+                Console.WriteLine("La suma de los vectores es:");
+                PuntoRes = PuntoRes.SumaVectores(Punto1, Punto2); PuntoRes.MostrarDatos('R');
+                Console.WriteLine("Ingrese coordenadas de nuevo vector");
+                Punto3.LeerDatos(); Punto3.MostrarDatos('C');
+                Console.WriteLine("La suma del vector R y el vector C es:");
+                PuntoRes = PuntoRes.SumaVectores(PuntoRes, Punto3); PuntoRes.MostrarDatos('R');
+
+            }
+        }
+    }
+}
