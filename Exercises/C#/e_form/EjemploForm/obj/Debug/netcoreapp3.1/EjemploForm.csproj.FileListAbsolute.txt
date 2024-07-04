@@ -1,0 +1,15 @@
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.csprojAssemblyReference.cache
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.Form1.resources
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.csproj.GenerateResource.cache
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.AssemblyInfoInputs.cache
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.AssemblyInfo.cs
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.exe
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.deps.json
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.runtimeconfig.json
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.runtimeconfig.dev.json
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.dll
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\bin\Debug\netcoreapp3.1\EjemploForm.pdb
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.dll
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.pdb
+C:\Users\Itaii\source\repos\EjemploForm\EjemploForm\obj\Debug\netcoreapp3.1\EjemploForm.genruntimeconfig.cache

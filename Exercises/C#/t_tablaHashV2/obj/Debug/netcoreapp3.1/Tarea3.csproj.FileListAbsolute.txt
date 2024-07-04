@@ -1,0 +1,13 @@
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.exe
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.deps.json
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.json
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.runtimeconfig.dev.json
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\bin\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csprojAssemblyReference.cache
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfoInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.AssemblyInfo.cs
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.dll
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\Tarea3\obj\Debug\netcoreapp3.1\Tarea3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.exe
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.deps.json
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.runtimeconfig.json
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.runtimeconfig.dev.json
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.dll
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\bin\Debug\netcoreapp3.1\DistanciaVectores.pdb
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.csprojAssemblyReference.cache
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.Form1.resources
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.csproj.GenerateResource.cache
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.AssemblyInfoInputs.cache
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.AssemblyInfo.cs
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.dll
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.pdb
+C:\Users\Itaii\source\repos\DistanciaVectores\DistanciaVectores\obj\Debug\netcoreapp3.1\DistanciaVectores.genruntimeconfig.cache

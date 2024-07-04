@@ -1,0 +1,13 @@
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.exe
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.deps.json
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.runtimeconfig.json
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.runtimeconfig.dev.json
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.dll
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\bin\Debug\netcoreapp3.1\PruebasTH.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.csprojAssemblyReference.cache
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.AssemblyInfoInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.AssemblyInfo.cs
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.dll
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\PruebasTH\obj\Debug\netcoreapp3.1\PruebasTH.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.exe
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.deps.json
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.runtimeconfig.json
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.runtimeconfig.dev.json
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.dll
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\bin\Debug\netcoreapp3.1\Itaii.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.csprojAssemblyReference.cache
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.AssemblyInfoInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.AssemblyInfo.cs
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.dll
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\EjemploComboBox\obj\Debug\netcoreapp3.1\Itaii.genruntimeconfig.cache

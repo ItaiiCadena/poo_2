@@ -1,0 +1,13 @@
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.exe
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.deps.json
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.runtimeconfig.json
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.runtimeconfig.dev.json
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.dll
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\bin\Debug\netcoreapp3.1\EjemploProfe2.pdb
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.csprojAssemblyReference.cache
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.AssemblyInfoInputs.cache
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.AssemblyInfo.cs
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.dll
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.pdb
+C:\Users\Itaii\source\repos\EjemploProfe2\EjemploProfe2\obj\Debug\netcoreapp3.1\EjemploProfe2.genruntimeconfig.cache

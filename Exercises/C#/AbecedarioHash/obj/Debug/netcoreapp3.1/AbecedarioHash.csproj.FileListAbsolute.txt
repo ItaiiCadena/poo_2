@@ -1,0 +1,13 @@
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.exe
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.deps.json
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.runtimeconfig.json
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.runtimeconfig.dev.json
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.dll
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\bin\Debug\netcoreapp3.1\AbecedarioHash.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.csprojAssemblyReference.cache
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.AssemblyInfoInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.AssemblyInfo.cs
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.csproj.CoreCompileInputs.cache
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.dll
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.pdb
+C:\Users\Itaii\OneDrive\Documents\C#\AbecedarioHash\obj\Debug\netcoreapp3.1\AbecedarioHash.genruntimeconfig.cache
